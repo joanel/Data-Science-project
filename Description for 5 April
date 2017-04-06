@@ -1,0 +1,21 @@
+Taking advantage of APIs in available online health data to assess relationship of gross-measure air pollution and mortality
+
+So, I was wondering just what would be available in APIs, and I think it’s important for me to take advantage of this learning environment to use them, so I found myself searching around to *Find* working ones.
+
+There’s not many: the government shut one down that was SO promising (see:https://www.healthindicators.gov) I may just try to use it some, anyway, it’s going going to be available exactly ten more days!!!
+
+But — I didn’t really know what an API was but another acronym until Monday, so there we are. I suppose that means some web scraping for me.
+
+The most stable/complete data source with an API is the CDC/Wonder site, which has been around for decades. (See: https://wonder.cdc.gov/wonder/help/WONDER-API.html) Mostly, it’s vital statistics, some environmental statistics, and cancer statistics.
+
+I’m going to propose taking a few population/areas, which I’ll work to define, and see if I can come up with some tabulated data, then something I can model, comparing and contrasting fine particulate matter and a few sources of mortality.
+
+Motivation: we now know that particulate matter, especially nano-scale carbon — soot, basically — is implicated in not only respiratory disease like asthma and emphysema, but also heart disease AND cancer, and now diabetes is implicated.
+
+I propose comparing the state of Washington to the greater Seattle area, then two more states, possibly Michigan, a state I know well, with it’s tri-county area housing metropolitan Detroit, and then the state of North Carolina, which now has several small cities, itself, as well as the ‘triangle’, an area of high growth.
+
+If I really want to rock this, I’ll try to make a map to compare the metropolitan areas to each other, and the three named metropolitan areas to their respective states.
+
+Another suggested component is time series: most of the data is reported on annually, and seeing the mortality data by cause of death by year by city may be really remarkable, as well.
+
+If associated data is available to me, I’ll take advantage of it, which may limit or refocus the scope of the above (i.e., state of Washington data source that’s rich in detail having me focus exactly on WA.)
